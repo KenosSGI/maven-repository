@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Sep 07 21:43:08 BRT 2020
+jrimum-bopepo-0.4.0.jar>=
+jrimum-bopepo-0.4.0-dep-sources.jar>=
+jrimum-bopepo-0.4.0-sources.jar>=
+jrimum-bopepo-0.4.0.pom>=
+jrimum-bopepo-0.4.0.pom>github-maven-repo=
+jrimum-bopepo-0.4.0-dep.jar>=
+jrimum-bopepo-0.4.0-examples.zip>=

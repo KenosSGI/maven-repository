@@ -1,0 +1,26 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Sep 02 10:58:58 BRT 2020
+https\://maven.repository.redhat.com/ga/.lastUpdated=1599055133025
+https\://repo.jenkins-ci.org/releases/.lastUpdated=1599055138042
+https\://mavensync.zkoss.org/maven2/.error=
+https\://repo.jenkins-ci.org/releases/.error=
+https\://mavensync.zkoss.org/maven2/.lastUpdated=1599055137750
+https\://clojars.org/repo/.error=
+https\://clojars.org/repo/.lastUpdated=1599055136074
+https\://jaspersoft.jfrog.io/jaspersoft/jr-ce-releases/.error=
+https\://jaspersoft.jfrog.io/jaspersoft/third-party-ce-artifacts/.lastUpdated=1599055134056
+https\://repo.opennms.org/maven2/.error=
+https\://bits.netbeans.org/maven2/.error=
+https\://maven.repository.redhat.com/ga/.error=
+https\://jaspersoft.jfrog.io/jaspersoft/third-party-ce-artifacts/.error=
+https\://repo1.maven.org/maven2/.error=
+https\://maven.atlassian.com/3rdparty/.lastUpdated=1599055137057
+https\://repo1.maven.org/maven2/.lastUpdated=1599055132410
+https\://repo.maven.apache.org/maven2/.lastUpdated=1599055138654
+https\://repo.opennms.org/maven2/.lastUpdated=1599055133517
+https\://bits.netbeans.org/maven2/.lastUpdated=1599055135038
+https\://jaspersoft.jfrog.io/jaspersoft/jr-ce-releases/.lastUpdated=1599055133805
+https\://maven.atlassian.com/3rdparty/.error=
+https\://repo.maven.apache.org/maven2/.error=
+https\://raw.githubusercontent.com/KenosSGI/maven-repository/master/repository/.lastUpdated=1599055131798
+https\://raw.githubusercontent.com/KenosSGI/maven-repository/master/repository/.error=
