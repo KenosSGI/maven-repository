@@ -3,10 +3,12 @@
   <groupId>org.jrimum</groupId>
   <artifactId>jrimum-utilix</artifactId>
   <versioning>
-    <release>0.4.0</release>
+    <release>0.4.2</release>
     <versions>
       <version>0.4.0</version>
+      <version>0.4.1</version>
+      <version>0.4.2</version>
     </versions>
-    <lastUpdated>20200908004245</lastUpdated>
+    <lastUpdated>20210405212444</lastUpdated>
   </versioning>
 </metadata>
