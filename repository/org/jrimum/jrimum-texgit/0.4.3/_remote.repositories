@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Apr 19 19:52:46 BRT 2022
+jrimum-texgit-0.4.3-sources.jar>=
+jrimum-texgit-0.4.3.pom>=
+jrimum-texgit-0.4.3-dep.jar>=
+jrimum-texgit-0.4.3.jar>=
