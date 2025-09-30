@@ -3,11 +3,12 @@
   <groupId>org.kenos</groupId>
   <artifactId>nfebeans</artifactId>
   <versioning>
-    <release>4.00-009p</release>
+    <release>4.00-010b</release>
     <versions>
       <version>4.00-009c</version>
       <version>4.00-009p</version>
+      <version>4.00-010b</version>
     </versions>
-    <lastUpdated>20241108135754</lastUpdated>
+    <lastUpdated>20251001022843</lastUpdated>
   </versioning>
 </metadata>
