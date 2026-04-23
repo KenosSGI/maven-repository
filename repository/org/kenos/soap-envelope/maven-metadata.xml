@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.kenos</groupId>
+  <artifactId>soap-envelope</artifactId>
+  <versioning>
+    <release>v1.1</release>
+    <versions>
+      <version>v1.2</version>
+      <version>v1.1</version>
+    </versions>
+    <lastUpdated>20260426121618</lastUpdated>
+  </versioning>
+</metadata>
